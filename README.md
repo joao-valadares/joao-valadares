@@ -1,4 +1,8 @@
-### Hi there 👋
+### Seja Bem-Vindo 👋 Meu nome é João Valadares
+
+Eu sou um estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado
+
+Atualmente possuo habilidades em HTML, CSS e Java.
 
 <!--
 **joao-valadares/joao-valadares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
