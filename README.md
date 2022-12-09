@@ -2,7 +2,7 @@
 
 🔭Estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado!
 
-🌱Atualmente estou estudando com foco em Back-End Java
+🌱Atualmente estou estudando com foco em Back-End
 
 💬Inglês fluente
 
