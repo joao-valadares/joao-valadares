@@ -1,6 +1,6 @@
 ### Seja Bem-Vindo 👋 Meu nome é João Valadares
 
-Eu sou um estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado
+Eu sou um estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado!
 
 Atualmente possuo habilidades em HTML, CSS e Java.
 
