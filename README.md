@@ -1,6 +1,6 @@
 ### Seja Bem-Vindo 👋 Meu nome é João Valadares
 
-🔭Eu sou um estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado!
+🔭Estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado!
 
 🌱Atualmente estou estudando com foco em Back-End Java
 
