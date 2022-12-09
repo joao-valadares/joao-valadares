@@ -8,7 +8,7 @@
 
 ⚡Possuo habilidades em Java, CSS e HTML
 
-<img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-valadares&layout=compact&langs_count=7&theme=dracula"/>
+<img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-valadares&layout=compact&langs_count=7&theme=dracula"/>
 
 <!--
 **joao-valadares/joao-valadares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
