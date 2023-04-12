@@ -1,5 +1,7 @@
 ### Seja Bem-Vindo 👋 Meu nome é João Valadares
 
+✨UFF (Universidade Federal Fluminense) - Sistemas de Informação
+
 🔭Estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado!
 
 🌱Atualmente estou estudando com foco em Back-End
