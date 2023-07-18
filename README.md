@@ -8,7 +8,7 @@
 
 💬Inglês fluente
 
-⚡Possuo habilidades em Java, CSS e HTML
+⚡Possuo habilidades em Java, Python, CSS e HTML
 
 <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-valadares&layout=compact&langs_count=7&theme=dracula"/>
 
