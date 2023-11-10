@@ -4,11 +4,9 @@
 
 🔭Estudante na área de Desenvolvimento de Software sedento por conhecimento e aprendizado!
 
-🌱Atualmente estou estudando com foco em Back-End
-
 💬Inglês fluente
 
-⚡Possuo habilidades em Java, Python, CSS e HTML
+⚡Possuo habilidades em Java, Python, JavaScrip, CSS, HTML e Solidity.
 
 <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-valadares&layout=compact&langs_count=7&theme=dracula"/>
 
